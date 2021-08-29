@@ -40,6 +40,7 @@ const six =[7,9,7];
 console.log(six[10]);
 
 //7) accessing array deleted element
+//7) accessing array deleted element
 const seven =[7,9,7];
 delete seven[1];
 console.log(seven);
