@@ -26,4 +26,10 @@ function greetAfternoon(name){
     console.log('Good Afternoon',name);
 }
 welcomeMessage('Hero',greetAfternoon);
+function work(x, y = 4){
 
+    return x + y;
+    
+    }
+    
+    console.log(work(32);
